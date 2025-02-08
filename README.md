@@ -1,2 +1,3 @@
-# Dementia_Assessment
- Converted Self-Administered Gerocognitive Exam (SAGE), a paper-based self-assessment of the dementia symptoms, into electronic format, enabling easier access, and automating feedback.
+# CS 6640 Project - Dementia Test
+
+Refer to [Documentation](Documentation/README.md) page for info on this application.

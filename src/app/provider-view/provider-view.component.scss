@@ -1,0 +1,22 @@
+/* You can add your custom css here.*/
+.data-loading-indicator-panel {
+    width: 100%;
+    height: 400px;
+}
+.data-loading-indicator {
+    position: relative;
+    width: 64px;
+    height: 64px;
+    left: calc((100% - 64px)/ 2);
+    top: calc((100% - 64px)/ 2);
+    animation: data-loading-indicator-spinner 1s infinite linear;
+}
+@keyframes data-loading-indicator-spinner {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}
