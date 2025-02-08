@@ -1,8 +1,8 @@
-# CS 6640 Project - Dementia Test
+# Dementia Assessment
 An online interactive electronic form of a dementia test. View the website [here](https://github.gatech.edu/pages/jchavez42/CS-6440-Health-Informatics-Team-Project/prod).
 
 
-- [CS 6640 Project - Dementia Test](#cs-6640-project---dementia-test)
+- [Dementia Assessment](#cs-6640-project---dementia-test)
   * [Technical/User Manual](#technical-user-manual)
     + [Deployment](#deployment)
       - [Deployment to static website (frontend)](#deployment-to-static-website--frontend-)
