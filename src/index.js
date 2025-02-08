@@ -4,8 +4,6 @@ const express = require('express');
 const bodyParser = require('body-parser')
 const jsonParser = bodyParser.json()
 
-const uri = "mongodb+srv://6440-dem:iJLCY8cgvrIh8FGA@6440-cluster.tmllwcj.mongodb.net/";
-
 const app = express();
 const port = process.env.PORT || 3000;
 const origin = process.env.ORIGIN || "*";
